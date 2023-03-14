@@ -1,0 +1,63 @@
+h1{
+    font-size: larger;
+    font-style: normal;
+    color: white;
+
+}
+.heading-container{
+    background-color: rgb(3,3,61);
+    padding: 12px;
+
+
+
+}
+
+h2{
+    color: rgb(3,3,61);
+    font-size: xx-large;
+    font-style: 60px;
+    justify-content: center;
+    display: flex;
+    margin: 50px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color:rgb(17, 17, 99); 
+    font-size: x-large;
+    font-style: italic;
+}
+.form-container{
+
+display: flex;
+flex-direction: column;
+
+}
+input{
+    margin: 15px;
+    width: 370px;
+    padding: 16px 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.centered-btn{
+    display: block;
+    margin: auto;
+    background-color: blue;
+    width: 370px;
+    padding: 16px 24px;
+    border-color:blue;
+
+}    
+
+    button{
+        color: white;
+    }
+
+
+ 
+.container{
+    display: flex;
+    justify-content: center;
+}
